@@ -1,0 +1,20 @@
+2020-09-19 14:25:01,710  INFO [main] LoginTest:73 - launching the chrome browser
+2020-09-19 14:25:05,580  INFO [main] LoginTest:75 - maximizing the window
+2020-09-19 14:25:10,570  INFO [main] LoginTest:80 - url launched
+2020-09-19 14:25:10,591  INFO [main] LoginTest:87 - checking image is displayed or not
+2020-09-19 14:25:10,796  INFO [main] LoginTest:91 - image displayed
+2020-09-19 14:25:15,879  INFO [main] LoginTest:73 - launching the chrome browser
+2020-09-19 14:25:18,049  INFO [main] LoginTest:75 - maximizing the window
+2020-09-19 14:25:22,910  INFO [main] LoginTest:80 - url launched
+2020-09-19 14:25:22,919  INFO [main] LoginTest:97 - entering username
+2020-09-19 14:25:23,533  INFO [main] LoginTest:101 - entering password
+2020-09-19 14:25:23,675  INFO [main] LoginTest:104 - clicking sign in
+2020-09-19 14:25:29,509  INFO [main] LoginTest:108 - sign in succesfully
+2020-09-19 14:25:29,519  INFO [main] LoginTest:112 - title matched
+2020-09-19 14:25:34,531  INFO [main] LoginTest:73 - launching the chrome browser
+2020-09-19 14:25:36,714  INFO [main] LoginTest:75 - maximizing the window
+2020-09-19 14:25:48,130  INFO [main] LoginTest:80 - url launched
+2020-09-19 14:25:48,135  INFO [main] LoginTest:119 - entering username
+2020-09-19 14:25:48,406  INFO [main] LoginTest:123 - entering password
+2020-09-19 14:25:48,576  INFO [main] LoginTest:126 - clicking sign in
+2020-09-19 14:25:55,425  INFO [main] LoginTest:130 - sign in succesfully
